@@ -78,7 +78,7 @@
     "tslint": "^5.0.0",
     "tslint-config-standard": "^5.0.2",
     "typedoc": "^0.5.10",
-    "typescript": "^2.2.2"
+    "typescript": "^2.3.1"
   },
   "keywords": [
     "async",
